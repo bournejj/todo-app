@@ -1,0 +1,30 @@
+#app {
+
+    position: relative;
+    text-align: center;
+    
+}
+
+h1 {
+
+    position: relative;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;;
+
+
+}
+
+::placeholder {
+
+    position: relative;
+    text-align: center;
+}
+
+h2 {
+
+    position: relative;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+
+
+}
